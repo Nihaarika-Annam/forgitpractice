@@ -1,0 +1,17 @@
+what is cucumber?
+Cucumber is a testing tool that supports Behavior Driven Development (BDD). 
+
+What is BDD?
+Behavior-driven development (BDD) is an Agile software development methodology in which an application is documented and designed around the behavior a user expects to experience when interacting with it.
+
+
+what is selinium?
+
+Selenium is a free (open-source) automated testing framework used to validate web applications across different browsers and platforms.
+
+You can use multiple programming languages like Java, C#, Python etc to create Selenium Test Scripts. 
+
+Setting up Selenium Cucumber Java BDD Framework:
+
+
+
